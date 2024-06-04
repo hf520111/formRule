@@ -1,5 +1,5 @@
 {
-  "name": "hf/form-rule",
+  "name": "hf520111/form-rule",
   "description": "生成表单规则",
   "type": "l",
   "require": {
@@ -8,7 +8,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "hf",
+      "name": "hf520111",
       "email": "hf520111@gmail.com"
     }
   ],
