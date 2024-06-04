@@ -1,0 +1,24 @@
+{
+  "name": "hf/form-rule",
+  "description": "生成表单规则",
+  "type": "l",
+  "require": {
+    "php": ">=7.2.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "hf",
+      "email": "hf520111@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "FormRule\\": "src/FormRule"
+    },
+    "files": [
+      "src/helper.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}
