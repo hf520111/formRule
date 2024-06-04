@@ -43,7 +43,7 @@ trait BaseRule
         return $this;
     }
 
-    public function col($col,int $offset = 0)
+    public function col($col,$offset = 0)
     {
         if (is_integer($col)) $col = ['span' => $col];
         $this->col = $col;
